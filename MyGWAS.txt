@@ -1,0 +1,1 @@
+SNP Estimate Std.Error t-value p-value
